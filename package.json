@@ -1,0 +1,21 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "agenda contato",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/viviantoyota/semana14.git"
+  },
+  "author": "vivian toyota",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.14"
+  }
+}
